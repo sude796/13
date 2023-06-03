@@ -5,11 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7dcc49b5-e049-4621-bd09-40158736af79" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/cat.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/glasses.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/haarcascade_frontalcatface_extended.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cat.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cat_with_glasses.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/glasses.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/haarcascade_frontalcatface_extended.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +39,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "ai",
+    "git-widget-placeholder": "web__site",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
